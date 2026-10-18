@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/RefundAgent/RefundAgent.csproj" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="src/Sdk/Sdk.csproj" />
   </Folder>
