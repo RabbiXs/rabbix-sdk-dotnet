@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <RootNamespace>RabbiX.$(MSBuildProjectName)</RootNamespace>
+    <AssemblyName>RabbiX.$(MSBuildProjectName)</AssemblyName>
+  </PropertyGroup>
+</Project>
